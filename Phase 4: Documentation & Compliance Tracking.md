@@ -6,3 +6,4 @@ Used ComplyAssistant to log all identified gaps and implemented security control
 Created a compliance tracking system to ensure ongoing adherence to HIPAA & NIST 800-171.
 
 Conducted regular security reviews with different teams to validate control effectiveness.
+
