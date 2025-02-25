@@ -10,9 +10,15 @@ By the end of the project, we successfully increased our HIPAA & NIST 800-171 co
 # Project Directory
 
 Assessment & Planning
+
 Gap Analysis in Microsoft Azure
+
 Implementing Security Controls
+
 Documentation & Compliance Tracking
+
 Cross-Functional Collaboration
+
 Results & Impact
+
 Key Takeaways
